@@ -1,5 +1,5 @@
 # About
-This repo contains all images used by sxw-js library including logo, favicons, etc..
+This repo contains all images used by SXW.js library including logo, favicons, etc..
 
 ![GitHub](https://img.shields.io/github/license/sxw-js/images.svg)
 ![GitHub issues](https://img.shields.io/github/issues/sxw-js/images.svg)
